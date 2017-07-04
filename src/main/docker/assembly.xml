@@ -4,7 +4,7 @@
   <dependencySets>
     <dependencySet>
       <includes>
-        <include>com.geekcap.vmturbo:hello-world-servlet-example</include>
+        <include>com.eyob.jenkins:hello-world-servlet-example</include>
       </includes>
       <outputDirectory>.</outputDirectory>
       <outputFileNameMapping>helloworld.war</outputFileNameMapping>

@@ -1,4 +1,4 @@
-package com.geekcap.vmturbo;
+package com.eyob.jenkins;
 
 public class Thing {
   private int n = 0;
